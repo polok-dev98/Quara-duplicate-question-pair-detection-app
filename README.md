@@ -8,4 +8,3 @@
 
 3. Open project Editor terminal and run the command -->  streamlit run app.py
 
-# Enjoy.
